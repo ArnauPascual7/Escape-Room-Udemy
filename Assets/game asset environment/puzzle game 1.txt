@@ -1,0 +1,34 @@
+1)Radio with no Battery:A radio! This could be useful… Maybe I can get a signal and find out what's going on."
+"...Nothing? Ugh, of course. No batteries."
+Ahh,"Guess I’ll have to find some.
+
+2)Radio with Battery: "Alright, batteries in… Let’s see if this thing actually works.<color=red>""If you want to stay alive… you need to hurry! Get out of the house—as fast as you can!" </color>"What?! What the hell is going on?!"
+
+3)Battery: "A battery… Might come in handy."
+"Could use this for something… Maybe that old radio?"
+
+4)mug:"A mug… Who does this belong to?"
+"Doesn’t matter. I don’t need it anyway."
+
+5)travel mug:"A travel mug… looks like it’s empty."
+"I don’t need to take this."
+
+6)locker door:"Let’s see what’s inside…"
+
+7)Paper im not crazy :  I am not crazy. what does that mean I cannot understand it.
+
+8) Mug code 910 : "Hmm… just a regular mug." ,"Wait… what’s this? A number?  <color=red> 910 </color> … ""Could this mean something?"
+
+9) bed with dead body : "Something feels… off about this.","I don’t think I want to touch that… What if there’s a dead body under there?"
+
+10)generator no fuel: "A generator… This could be useful." "Of course… no fuel." "Guess I’ll have to find some."
+
+11)generator with fuel: "Yes! It’s working!" "Let’s hope it stays that way…"
+
+12) fuel tank : "A fuel tank… "Feels like there’s still some left. Might come in handy."
+
+13) statue no gem : "A statue… looks old."  . "Wait… there’s a small hole here." . "Wonder what fits in there…"
+
+14) statue with red gem : "Alright… let’s see if this does anything.". "Whoa… something’s moving!". "A hidden box… Now this is interesting."
+
+15) white key : "A key?". "Wonder what this unlocks…"
