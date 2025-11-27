@@ -11,4 +11,9 @@ public class Item : ScriptableObject
     public string Text;
 
     public Sprite Image;
+
+    [Header("Inventory")]
+    public bool InventoryItem;
+    public string CollectMsg;
+    public Sprite ItemIcon;
 }

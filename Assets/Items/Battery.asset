@@ -10,14 +10,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 77e03e87279f1b64bbc6fadb28e0ec2c, type: 3}
-  m_Name: Mug
+  m_Name: Battery
   m_EditorClassIdentifier: Assembly-CSharp::Item
   grabbable: 1
-  AudioClip: {fileID: 8300000, guid: c6c3b5dc2281c9446b0774355482e0ae, type: 3}
-  Text: 'A mug... Who does this belong to?
+  AudioClip: {fileID: 8300000, guid: acd28c57d2a446b4ba576019b6048739, type: 3}
+  Text: 'A battery... Might come in handy.
 
-    Doesn''t matter. I don''t need it
-    anyway.'
+    Could use this for something... Maybe
+    that old radio?'
   Image: {fileID: 0}
-  InventoryItem: 0
-  CollectMsg: 
+  InventoryItem: 1
+  CollectMsg: Battery Collected
+  ItemIcon: {fileID: 21300000, guid: 04deae81546c49e4e9351dbb6ccd2ea1, type: 3}

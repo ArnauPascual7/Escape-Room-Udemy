@@ -10,14 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 77e03e87279f1b64bbc6fadb28e0ec2c, type: 3}
-  m_Name: Mug
+  m_Name: Radio Without Battery
   m_EditorClassIdentifier: Assembly-CSharp::Item
   grabbable: 1
-  AudioClip: {fileID: 8300000, guid: c6c3b5dc2281c9446b0774355482e0ae, type: 3}
-  Text: 'A mug... Who does this belong to?
-
-    Doesn''t matter. I don''t need it
-    anyway.'
+  AudioClip: {fileID: 8300000, guid: 324e2f94c55f1d2479f15152cb29ef87, type: 3}
+  Text: "A radio! This could be useful... Maybe I can get a signal and find out what's
+    going on. \n...\nNothing? Ugh, of course. No batteries. Ahh, Guess I'll have
+    to find some."
   Image: {fileID: 0}
   InventoryItem: 0
   CollectMsg: 
