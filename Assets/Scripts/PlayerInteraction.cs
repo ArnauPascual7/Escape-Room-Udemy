@@ -220,9 +220,15 @@ public class PlayerInteraction : MonoBehaviour
         _audioPlayer.PlayAudio(item.AudioClip);
         UIManager.Instance.SetCaptionText(item.Text);
 
-
-        // Invoke the CanFinish function after the audio clip finishes playing.
-        Invoke(nameof(CanFinish), item.AudioClip.length + 0.5f);
+        if (item.AudioClip != null)
+        {
+            // Invoke the CanFinish function after the audio clip finishes playing.
+            Invoke(nameof(CanFinish), item.AudioClip.length + 0.5f);
+        }
+        else
+        {
+            Invoke(nameof(CanFinish), 1f);
+        }
     }
 
     // Function to handle logic when the player is allowed to finish viewing an item.

@@ -10,12 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 77e03e87279f1b64bbc6fadb28e0ec2c, type: 3}
-  m_Name: Paper Info 1
+  m_Name: Statue Without Gem
   m_EditorClassIdentifier: Assembly-CSharp::Item
   grabbable: 0
-  AudioClip: {fileID: 8300000, guid: 0b025f7d03e341147ba32cc98c43cb9c, type: 3}
-  Text: I am not crazy. What does that mean? I cannot understand it.
-  Image: {fileID: 21300000, guid: 6f70e88c482839c4eb6fcad315534bd1, type: 3}
+  AudioClip: {fileID: 8300000, guid: 2af64a429534b9541b1e3e4377998fbe, type: 3}
+  Text: "A statue... looks old.\nWait... there\u2019s a small hole here. Wonder what
+    fits in there..."
+  Image: {fileID: 0}
   InventoryItem: 0
   CollectMsg: 
   ItemIcon: {fileID: 0}
