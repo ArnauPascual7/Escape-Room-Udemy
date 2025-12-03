@@ -9,6 +9,7 @@ public class ChangeLevel : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
+            PlayerPrefs.SetInt("CurrentLevel", GoToLevel);
             SceneManager.LoadScene(GoToLevel);
         }
     }
